@@ -1,4 +1,4 @@
-# action=restart
-action=any
+export action=any
 # action=tv
-export action
+# action=restart
+#export action
