@@ -1,6 +1,7 @@
 #!/usr/bin/bash
-action=any
+action=tv
 # action=any
+# action=awe
 # action=tv
 # action=restart
 export action
