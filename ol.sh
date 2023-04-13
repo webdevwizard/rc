@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-action=tv
+action=any
 # action=any
 # action=awe
 # action=tv
