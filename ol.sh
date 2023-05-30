@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-action=restart
+action=
 # action=any
 # action=awe
 # action=tv
